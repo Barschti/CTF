@@ -813,8 +813,7 @@ async def usepowerup(update: Update, context: CallbackContext) -> None:
    
 
 if __name__ == '__main__':
-    #application = ApplicationBuilder().token('6773817088:AAFQjt2MGzjjP6XOKXIUDVY86EcUB_jrc44').build() old
-    application = ApplicationBuilder().token('6588216852:AAF_DAoSRDJZWBSWM2HkykP-AUlyPwN-jZA').build()
+    application = ApplicationBuilder().token('INSERT TOKEN HERE').build()
 
 
     
